@@ -21,13 +21,13 @@
 </p>
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
-# 🚀 Full-Stack Authentication Project 🌐
+                                                             🚀 Full-Stack Authentication Project 🌐
 
 Welcome to the **Full-Stack Authentication** project built with **NestJS** (backend) and **React** (frontend). This project implements a complete authentication system, including **login**, **signup**, and **logout** functionalities.
 
 ---
 
-## 📂 **Project Structure**
+##                                                              📂  **Project Structure**
 
 root/ │ ├── backend/ │ ├── src/ │ │ ├── auth/ │ │ │ ├── auth.controller.ts │ │ │ ├── auth.service.ts │ │ │ ├── auth.module.ts │ │ ├── main.ts │ │ ├── app.module.ts │ ├── frontend/ │ ├── src/ │ │ ├── components/ │ │ │ ├── LoginScreen.jsx │ │ │ ├── SignUpScreen.jsx │ │ ├── App.js │ └── package.json
 
