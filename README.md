@@ -29,6 +29,7 @@ Welcome to the **Full-Stack Authentication** project built with **NestJS** (back
 
 ## 📂 **Project Structure**
 
+root/ │ ├── backend/ │ ├── src/ │ │ ├── auth/ │ │ │ ├── auth.controller.ts │ │ │ ├── auth.service.ts │ │ │ ├── auth.module.ts │ │ ├── main.ts │ │ ├── app.module.ts │ ├── frontend/ │ ├── src/ │ │ ├── components/ │ │ │ ├── LoginScreen.jsx │ │ │ ├── SignUpScreen.jsx │ │ ├── App.js │ └── package.json
 
 ## Description
 
